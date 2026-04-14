@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "STORAGE_ACCOUNT_NAME": "rgavidpoc950b",
+    "TABLE_NAME": "rmstracker",
+    "BLOB_CONTAINER_NAME": "tracker",
+    "BLOB_EXCEL_NAME": "Avid_RMS_Master_Tracker.xlsx",
+    "AZURE_TENANT_ID": "3611dbf5-418a-4eeb-a17c-99fb4d28bb2b"
+  }
+}
